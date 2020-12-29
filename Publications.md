@@ -18,7 +18,7 @@ published: false
 * “Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.” Critical Quarterly, Volume 58, Issue 4 (February 2017), 113–122.
 * “The Archive and the Labyrinth: On the Contemporary _Bilderatlas_.” October, Issue 149 (Summer 2014), 143–158.
 
-Recorded Lectures
+**Recorded Lectures**
 
 * “[Before the Atlas. Exhibiting Cultural History in Wilhelmine Germany](https://www.hkw.de/en/app/mediathek/video/83627).” Conference on the occasion of the exhibition _Aby Warburg: Bilderatlas Mnemosyne. Das Original_, Haus der Kulturen der Welt, Berlin, September 26, 2020.
 
