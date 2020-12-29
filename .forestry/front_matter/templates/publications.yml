@@ -1,4 +1,9 @@
 ---
 label: Publications
 hide_body: false
-fields: []
+fields:
+- name: publications
+  type: text
+  config:
+    required: false
+  label: Publications
