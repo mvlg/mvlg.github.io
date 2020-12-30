@@ -16,7 +16,8 @@
 
 - 简单优雅的学术个人主页模板
 - 基于Jekyll, 可以在GitHub Pages服务下自动部署
-- 移动版本适配
+- 搜索引擎优化
+- 基本的移动端适配
 - 支持Markdown
 - 支持自动的暗黑模式
 
@@ -28,8 +29,33 @@
 ```yaml
 remote_theme: yaoyao-liu/minimal-light
 ```
+请注意：添加上述内容到你的项目，会直接应用这个仓库的所有的默认设置。
 
-### 通过Jekyll使用
+如果你希望编辑任何文件（例如：`index.md`)，你仍需要把该文件拷贝到你的项目中。
+
+你也可以直接fork这个仓库，然后把仓库的名字改为`your-username.github.io`.
+
+#### 在GitHub上使用自定义域名
+
+在你的DNS设置中添加如下的`CNAME`解析记录：
+
+```
+Host: 根据需求自定义，例如： "www" 
+Target / Canonical name: your-username.github.io.
+TTL: 10 min
+```
+你也可以添加如下的`A`解析记录（如果无法使用`CNAME`记录的话）：
+```
+Host: 根据需求自定义，例如： "www" 或 "@"
+IP: 185.199.108.153
+    185.199.109.153
+    185.199.110.153
+    185.199.111.153
+TTL: 10 min
+```
+然后，编辑这个仓库中 [CNAME](./CNAME) 文件的内容为你自定义的域名。
+
+### 通过Jekyll在本地使用
 
 *首先你需要安装[Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/).*
 
@@ -71,7 +97,7 @@ remote_theme: yaoyao-liu/minimal-light
   ```
 ### 编辑 `index.md`
 
-编辑`index.md`并添加你的个人信息(如：发表的论文，研究课题等).
+创建`index.md`并添加你的个人信息(如：发表的论文，研究课题等).
 
 ### 网页样式（CSS)
 

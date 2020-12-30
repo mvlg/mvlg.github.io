@@ -16,6 +16,7 @@
 
 - Simple and elegant personal homepage theme
 - Jekyll theme, deploy automatically by GitHub pages
+- Basic Search Engine Optimization
 - Mobile friendly
 - Support Markdown 
 - Support dark mode
@@ -24,13 +25,39 @@
 
 ### Using on GitHub 
 
-To use this theme, add the following to your site's `_config.yml`:
+To use this theme, add the following to your repository's `_config.yml`:
 
 ```yaml
 remote_theme: yaoyao-liu/minimal-light
 ```
 
-### Using with Jekyll
+Please note that adding the above line will directly apply all the default settings in this repository to yours.
+
+If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
+
+You may also fork this repository and change the repository's name to `your-username.github.io`.
+
+#### Using custom domain on GitHub
+
+Add a `CNAME` DNS record to your domain as follows:
+```
+Host: whatever you want. e.g., "www" 
+Target / Canonical name: your-username.github.io.
+TTL: 10 min
+```
+You may also add an `A` DNS record instead of the `CNAME` record as follows:
+```
+Host: whatever you want. e.g., "www" or "@"
+IP: 185.199.108.153
+    185.199.109.153
+    185.199.110.153
+    185.199.111.153
+TTL: 10 min
+```
+
+Then, change the contents of the [CNAME](./CNAME) file in this repository to your domain.
+
+### Using Locally with Jekyll
 
 *You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
 
@@ -72,7 +99,7 @@ remote_theme: yaoyao-liu/minimal-light
   ```
 ### Editing `index.md`
 
-Edit `index.md` and add your personal information (e.g. publications, research).
+Create `index.md` and add your personal information (e.g. publications, research).
 
 ### Stylesheet
 
