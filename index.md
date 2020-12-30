@@ -15,3 +15,5 @@ My current project reconstructs the first exhibition of global art history in Ge
 This year I co-convene the working group on [Colonial Science in the German Empire at the Consortium for Science, Technology and Medicine](https://www.chstm.org/content/colonial-science-german-empire-0).
 
 I hold a PhD in German from Princeton University. I was born in California.
+
+[Publications](/Publications)

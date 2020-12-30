@@ -1,10 +1,10 @@
 ---
-publications: ''
+layout: homepage
 
 ---
-**Selected Publications**
+## Selected Publications
 
-(available upon request)
+---
 
 **Edited Volumes**
 
@@ -33,7 +33,7 @@ publications: ''
 * “Carl Schmitt’s Political Theology” \[annotated translation of a 1924 essay by Hugo Ball\]. October, Issue 146 (Fall 2013), 65–92. With “Afterword: Hugo Ball’s Political* Theology.” October, Issue 146 (Fall 2013), 93–96.  
   _*For reasons unclear to me, the editor dropped the word 'political' just before the issue went to print. Those anticipating a Dadaist catechism will be disappointed._
 
-Art Writing
+**Art Writing**
 
 * "Mnemic Seizures in the Digestive Tract of the Universe” and "Blood is never buried – it only ever flows” in: _Elise Florenty & Marcel Türkowsky: One head too many_ (Berlin: Bom Dia Boa Tarde Boa Noite, 2017).
 * “2007: _Zeitung_ \[on a photobook by Peter Piller\],” in “Notes for a History of the PhotoBook and the Archive”, _Aperture Magazine Photobook Review_ (Spring 2016).
