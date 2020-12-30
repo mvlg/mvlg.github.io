@@ -12,4 +12,6 @@ My first book manuscript, **The Science of Expression: Nature, Culture and Gestu
 
 My current project reconstructs the first exhibition of global art history in Germany, organized by the historian Karl Lamprecht in 1914. Entitled **In the Hall of Culture. Global Art History in the Deep Time of Empire**, the book situates this exhibition within the wider context of historical scholarship, scientific racism and imperial *Kulturpolitik* at the eve of the First World War, and offers critical new perspectives on the global turn in art history today.
 
-This year I co-convene the working group on [Colonial Science in the German Empire at the Consortium for Science, Technology and Medicine](https://www.chstm.org/content/colonial-science-german-empire-0).I hold a PhD in German from Princeton University. I was born in California.
+This year I co-convene the working group on [Colonial Science in the German Empire at the Consortium for Science, Technology and Medicine](https://www.chstm.org/content/colonial-science-german-empire-0).
+
+I hold a PhD in German from Princeton University. I was born in California.
