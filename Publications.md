@@ -31,7 +31,7 @@ layout: homepage
 **Translations**
 
 * “Carl Schmitt’s Political Theology” \[annotated translation of a 1924 essay by Hugo Ball\]. October, Issue 146 (Fall 2013), 65–92. With “Afterword: Hugo Ball’s Political* Theology.” October, Issue 146 (Fall 2013), 93–96.  
-  _*For reasons unclear to me, the editor dropped the word 'political' just before the issue went to print. Those anticipating a Dadaist catechism will be disappointed._
+  *For reasons unclear to me, the editor dropped the word 'political' just before the issue went to print. Those anticipating a Dadaist catechism will be disappointed.
 
 **Art Writing**
 
