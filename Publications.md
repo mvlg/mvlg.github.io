@@ -12,6 +12,7 @@ layout: homepage
 
 **Articles**
 
+* "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, Issue 35. Forthcoming in March 2021.
 * “The Archeology of Expression: Aby Warburg’s _Ausdruckskunde_.” _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
 * “Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany.” <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93.
 * “Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.” <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122.
