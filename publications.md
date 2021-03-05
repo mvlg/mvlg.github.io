@@ -12,12 +12,12 @@ layout: homepage
 
 **Articles**
 
-* "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, Issue 35: '[André Leroi-Gourhan et l'esthétique / Art et anthropologie](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29)'. Forthcoming in March 2021.
+* "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29). Forthcoming in March 2021.
 * “The Archeology of Expression: Aby Warburg’s _Ausdruckskunde_.” _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
-* “[Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany](https://www.mitpressjournals.org/doi/pdf/10.1162/grey_a_00252).” <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93.  
+* [“Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany."](https://www.mitpressjournals.org/doi/pdf/10.1162/grey_a_00252) <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93.  
 Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dans l’Allemagne de Weimar.” _Puissances du végétal_, ed. Teresa Castro, Perig Pitrou and Marie Rebecchi (Dijon: Les presses du réel, 2020), 195–223.
 * “Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.” <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122.
-* “[The Archive and the Labyrinth: On the Contemporary _Bilderatlas_](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00187).” <u>October</u>, Issue 149 (Summer 2014), 143–158.
+* ["The Archive and the Labyrinth: On the Contemporary _Bilderatlas_."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00187) <u>October</u>, Issue 149 (Summer 2014), 143–158.
 
 **Recorded Lectures**
 
@@ -32,8 +32,8 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 
 **Translations**
 
-* “[Carl Schmitt’s Political Theology](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00157)” \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
-With “[Afterword: Hugo Ball’s Political* Theology](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00160).” <u>October</u>, Issue 146 (Fall 2013), 93–96.  
+* ["Carl Schmitt’s Political Theology"](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00157) \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
+With ["Afterword: Hugo Ball’s Political* Theology."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96.  
     *For reasons unclear to me, the editor dropped the word 'political' just before the issue went to press. Those anticipating a Dadaist catechism will be disappointed.
 
 **Art Writing**
