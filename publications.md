@@ -12,7 +12,7 @@ layout: homepage
 
 **Articles**
 
-* "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, Issue 35: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'. Forthcoming in March 2021.
+* "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, Issue 35: '[André Leroi-Gourhan et l'esthétique / Art et anthropologie](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29)'. Forthcoming in March 2021.
 * “The Archeology of Expression: Aby Warburg’s _Ausdruckskunde_.” _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
 * “[Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany](https://www.mitpressjournals.org/doi/pdf/10.1162/grey_a_00252).” <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93.  
 Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dans l’Allemagne de Weimar.” _Puissances du végétal_, ed. Teresa Castro, Perig Pitrou and Marie Rebecchi (Dijon: Les presses du réel, 2020), 195–223.
