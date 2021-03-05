@@ -13,10 +13,10 @@ layout: homepage
 **Articles**
 
 * "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29). Forthcoming in March 2021.
-* “The Archeology of Expression: Aby Warburg’s _Ausdruckskunde_.” _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
+* [“The Archaeology of Expression: Aby Warburg’s _Ausdruckskunde_.”](https://www.degruyter.com/document/doi/10.1515/9783110583410-010/html) _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
 * [“Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany."](https://www.mitpressjournals.org/doi/pdf/10.1162/grey_a_00252) <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93.  
-Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dans l’Allemagne de Weimar.” _Puissances du végétal_, ed. Teresa Castro, Perig Pitrou and Marie Rebecchi (Dijon: Les presses du réel, 2020), 195–223.
-* “Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.” <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122.
+Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dans l’Allemagne de Weimar.” [_Puissances du végétal_](https://www.lespressesdureel.com/EN/ouvrage.php?id=7775), ed. Teresa Castro, Perig Pitrou and Marie Rebecchi (Dijon: Les presses du réel, 2020), 195–223.
+* [“Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.”](https://onlinelibrary.wiley.com/doi/abs/10.1111/criq.12325) <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122.
 * ["The Archive and the Labyrinth: On the Contemporary _Bilderatlas_."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00187) <u>October</u>, Issue 149 (Summer 2014), 143–158.
 
 **Recorded Lectures**
@@ -26,7 +26,7 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 **Reviews**
 
 * “[Faustian Bargains: The Legends and Legacies of German ‘Liberal Ethnology’](https://histanthro.org/reviews/faustian-bargains/)” \[Review of H. Glenn Penny, _Im Schatten Humboldts. Eine tragische Geschichte der deutschen Ethnologie_\], <u>History of Anthropology Review</u>, Volume 44.
-* “Seductio ad Absurdum” \[Review of Matthew Rampley, _The Seductions of Darwin: Art, Evolution, Neuroscience_\], <u>Oxford Art Journal</u>, Volume 43, Issue 1 (March 2020), 152–155.
+* [“Seductio ad Absurdum”](https://academic.oup.com/oaj/article-abstract/43/1/152/5766082) \[Review of Matthew Rampley, _The Seductions of Darwin: Art, Evolution, Neuroscience_\], <u>Oxford Art Journal</u>, Volume 43, Issue 1 (March 2020), 152–155.
 * [Review: Barbara Wittmann, _Bedeutungsvolle Kritzeleien: Eine Kultur- und Wissensgeschichte der Kinderzeichung, 1500–1950_.](https://bilderfahrzeuge.hypotheses.org/3609) Blog of the Bilderfahrzeuge Research Group. April 8, 2019.
 * [“Specters of the Primitive. A Review in Three Parts.”](https://bilderfahrzeuge.hypotheses.org/4487) Blog of the Bilderfahrzeuge Research Group. December 9, 2019.
 
