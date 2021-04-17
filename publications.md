@@ -40,7 +40,7 @@ With ["Afterword: Hugo Ball’s Political* Theology."](https://www.mitpressjourn
     *For reasons unclear to me, the editor dropped the word 'political' just before the issue went to press. Those anticipating a Dadaist catechism will be disappointed.
 
 **Catalogue Essays**
-* “The Library of Life. Biological Connections in Mies’s Collection” / “Die Bibliothek des Lebens. Mies’ Werk und die Biologie.” [_Lehmbruck - Kolbe - Mies van der Rohe. Künstliche Biotope / Artificial Biotopes_](https://www.hirmerverlag.de/uk/titel-1-1/lehmbruck_kolbe_mies_van_der_rohe-2196/), ed. Sylvia Martin und Julia Wallner (Munich: Hirmer Verlag, 2021), 195—217.
+* “The Library of Life. Biological Connections in Mies’s Collection” / “Die Bibliothek des Lebens. Mies’ Werk und die Biologie.” [_Lehmbruck - Kolbe - Mies van der Rohe. Künstliche Biotope / Artificial Biotopes_](https://www.hirmerverlag.de/eu/titel-3-3/lehmbruck_kolbe_mies_van_der_rohe-2196/), ed. Sylvia Martin und Julia Wallner (Munich: Hirmer Verlag, 2021), 195—217.
 
 **Art Writing**
 
