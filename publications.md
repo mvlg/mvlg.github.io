@@ -12,6 +12,7 @@ layout: homepage
 
 **Articles**
 
+* "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, in press.
 * "Die Pflanze als Erfinder. Raoul Francé, die Biotechnik und die Avantgarde der Zwischenkriegszeit." _Form- und Bewegungskräfte_, ed. Lutz Hengst, Frank Fehrenbach, Frederike Middelhoff and Cornelia Zumbusch (Berlin/New York: De Gruyter, forthcoming 2021).
 * "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35–36: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) (2021), 378–399.
 * [“The Archaeology of Expression: Aby Warburg’s _Ausdruckskunde_.”](https://www.degruyter.com/document/doi/10.1515/9783110583410-010/html) _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
