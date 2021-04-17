@@ -15,12 +15,12 @@ layout: homepage
 * "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, in press.
 * "Die Pflanze als Erfinder. Raoul Francé, die Biotechnik und die Avantgarde der Zwischenkriegszeit." _Form- und Bewegungskräfte_, ed. Lutz Hengst, Frank Fehrenbach, Frederike Middelhoff and Cornelia Zumbusch (Berlin/New York: De Gruyter, forthcoming 2021).
 * "Bedeutungssphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/New York: De Gruyter, forthcoming 2021).
-* "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35–36: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) (2021), 378–399.
+* "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35–36: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) (2021), 378—399.
 * [“The Archaeology of Expression: Aby Warburg’s _Ausdruckskunde_.”](https://www.degruyter.com/document/doi/10.1515/9783110583410-010/html) _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
-* [“Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany."](https://www.mitpressjournals.org/doi/pdf/10.1162/grey_a_00252) <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93.  
+* [“Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany."](https://www.mitpressjournals.org/doi/pdf/10.1162/grey_a_00252) <u>Grey Room</u>, Issue 72 (Summer 2018), 68—93.  
 Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dans l’Allemagne de Weimar.” [_Puissances du végétal_](https://www.lespressesdureel.com/EN/ouvrage.php?id=7775), ed. Teresa Castro, Perig Pitrou and Marie Rebecchi (Dijon: Les presses du réel, 2020), 195–223.
-* [“Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.”](https://onlinelibrary.wiley.com/doi/abs/10.1111/criq.12325) <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122.
-* ["The Archive and the Labyrinth: On the Contemporary _Bilderatlas_."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00187) <u>October</u>, Issue 149 (Summer 2014), 143–158.
+* [“Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.”](https://onlinelibrary.wiley.com/doi/abs/10.1111/criq.12325) <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113—122.
+* ["The Archive and the Labyrinth: On the Contemporary _Bilderatlas_."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00187) <u>October</u>, Issue 149 (Summer 2014), 143—158.
 
 **Recorded Lectures**
 
@@ -38,6 +38,9 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 * ["Carl Schmitt’s Political Theology"](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00157) \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
 With ["Afterword: Hugo Ball’s Political* Theology."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96.  
     *For reasons unclear to me, the editor dropped the word 'political' just before the issue went to press. Those anticipating a Dadaist catechism will be disappointed.
+
+**Catalogue Essays**
+* “The Library of Life. Biological Connections in Mies’s Collection” / “Die Bibliothek des Lebens. Mies’ Werk und die Biologie.” _Lehmbruck - Kolbe - Mies van der Rohe. Künstliche Biotope / Artificial Biotopes_, ed. Sylvia Martin und Julia Wallner (Munich: Hirmer Verlag, 2021), 195—217.
 
 **Art Writing**
 
