@@ -8,7 +8,7 @@ layout: homepage
 
 **Edited Volumes**
 
-* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin: De Gruyter). Forthcoming in May 2021.
+* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin: De Gruyter). Forthcoming in September 2021.
 
 **Articles**
 
