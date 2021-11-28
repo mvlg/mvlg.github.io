@@ -10,7 +10,7 @@ I am a historian of art and science with a focus on modern Germany. My work deal
 
 I hold a PhD in German from Princeton University. Since 2018 I have been a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. 
 
-My current book project, **The Science of Expression: Nature, Culture and Gesture in Modern Germany**, tells the story of gesture's transformation into an object of scientific knowledge in early twentieth-century Germany. Through a series of cross-disciplinary encounters, the book reveals how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expression, a phenomenon that then as now unsettles distinctions between the natural and the human sciences.
+My current book project, **The Science of Expression: Nature, Culture and Gesture in Modern Germany**, tells the story of gesture's transformation into an object of scientific knowledge in early twentieth-century Germany. Through a series of cross-disciplinary encounters, the book reveals how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expression, a phenomenon that then as now unsettles the boundaries between the natural and the human sciences.
 
 This year I am co-convening the working group on [Colonial Science in the German Empire at the Consortium for Science, Technology and Medicine](https://www.chstm.org/content/colonial-science-german-empire-0).
 
