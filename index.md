@@ -10,7 +10,9 @@ I am a historian of art and science with a focus on modern Germany. My work deal
 
 I hold a PhD in German from Princeton University. Since 2018 I have been a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. 
 
-My current book project, **The Science of Expression: Nature, Culture and Gesture in Modern Germany**, tells the story of gesture's transformation into an object of scientific knowledge in early twentieth-century Germany. Through a series of cross-disciplinary encounters, the book reveals how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expression, a phenomenon that then as now unsettles the boundaries between the natural and the human sciences.
+I am currently at work on two major projects. My first book manuscript, **The Science of Expression: Nature, Culture and Gesture in Modern Germany**, tells the story of how gesture became the object of scientific knowledge in early twentieth-century Germany. Through a series of interdisciplinary encounters, it narrates how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expression, a phenomenon that then as now unsettles distinctions between the natural and the human sciences.
+
+My current project centers on the first ever exhibition of global art history in Germany, organized by the historian Karl Lamprecht in 1914. Entitled **World Art History and the Deep Time of Empire: Karl Lamprecht's Hall of Culture**, the book situates this long-overlooked exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy at the eve of the First World War. Bridging the ideological ambitions in the metropole with colonial realities in the German Empire, it revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism and the universal museum. 
 
 This year I am co-convening the working group on [Colonial Science in the German Empire at the Consortium for Science, Technology and Medicine](https://www.chstm.org/content/colonial-science-german-empire-0).
 
@@ -35,10 +37,6 @@ This year I am co-convening the working group on [Colonial Science in the German
 Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dans l’Allemagne de Weimar.” [_Puissances du végétal_](https://www.lespressesdureel.com/EN/ouvrage.php?id=7775), ed. Teresa Castro, Perig Pitrou and Marie Rebecchi (Dijon: Les presses du réel, 2020), 195–223.
 * [“Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.”](https://onlinelibrary.wiley.com/doi/abs/10.1111/criq.12325) <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122.
 * ["The Archive and the Labyrinth: On the Contemporary _Bilderatlas_."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00187) <u>October</u>, Issue 149 (Summer 2014), 143–158.
-
-**Recorded Lectures**
-
-* “[Before the Atlas. Exhibiting Cultural History in Wilhelmine Germany](https://www.hkw.de/en/app/mediathek/video/83627).” Conference on the occasion of the exhibition _Aby Warburg: Bilderatlas Mnemosyne. Das Original_, Haus der Kulturen der Welt, Berlin, September 26, 2020.
 
 **Reviews**
 
