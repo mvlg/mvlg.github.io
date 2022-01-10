@@ -24,12 +24,12 @@ This year I am co-convening the working group on [Colonial Science in the German
 
 **Edited Volumes**
 
-* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin: De Gruyter). Forthcoming in December 2021.
+* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin: De Gruyter). Forthcoming in April 2022.
 
 **Articles**
 
 * "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, in press.
-* "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/New York: De Gruyter, forthcoming 2021).
+* "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/New York: De Gruyter, forthcoming 2022).
 * "Die Pflanze als Erfinder. Raoul Francé, die Biotechnik und die Avantgarde der Zwischenkriegszeit." _Form- und Bewegungskräfte in Kunst, Literatur und Wissenschaft_, ed. Lutz Hengst, Frank Fehrenbach, Frederike Middelhoff and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2021), 253–291.
 * "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35–36: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) (2021), 378–399.
 * [“The Archaeology of Expression: Aby Warburg’s _Ausdruckskunde_.”](https://www.degruyter.com/document/doi/10.1515/9783110583410-010/html) _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
@@ -52,6 +52,8 @@ With ["Afterword: Hugo Ball’s Political* Theology."](https://www.mitpressjourn
     *For reasons unclear to me, the editor dropped the word 'political' just before the issue went to press. Those anticipating a Dadaist catechism will be disappointed.
 
 **Catalogue Essays**
+
+* “‘With the Eyes of an Anthropologist.’ Aby Warburg and the Bureau of American Ethnology,” in [_Lightning Symbol and Snake Dance. Aby Warburg and Pueblo Art_](https://www.hatjecantz.de/lightning-symbol-and-snake-dance-8155-1.html?article_id=8155&clang=1), ed. Christine Chavez and Uwe Fleckner (Hamburg: MARKK, 2022), in press.
 * “The Library of Life. Mies's Work and Biology” / “Die Bibliothek des Lebens. Mies’ Werk und die Biologie.” [_Lehmbruck - Kolbe - Mies van der Rohe. Künstliche Biotope / Artificial Biotopes_](https://www.hirmerverlag.de/eu/titel-3-3/lehmbruck_kolbe_mies_van_der_rohe-2196/), ed. Sylvia Martin und Julia Wallner (Munich: Hirmer Verlag, 2021), 195–217.
 
 **Art Writing**
