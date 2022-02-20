@@ -6,15 +6,15 @@ layout: homepage
 
 ---
 
-I am a historian of art and science with a focus on modern Germany. My work deals with the interconnected histories of aesthetics, anthropology, and the life sciences. I am particularly interested in the ways that images shape and disrupt our understanding of what it means to be human. 
+I am an intellectual historian with a focus on modern Germany. My work deals with the interconnected histories of aesthetics, anthropology, and the life sciences. I am particularly interested in the ways that images shape and disrupt our understanding of what it means to be human. 
 
 I hold a PhD in German from Princeton University. Since 2018 I have been a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. 
 
-I am currently at work on two major projects. My first book manuscript, **The Science of Expression: Nature, Culture and Gesture in Modern Germany**, tells the story of how gesture became the object of scientific knowledge in early twentieth-century Germany. Through a series of interdisciplinary encounters, it narrates how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expression, a phenomenon that then as now unsettles distinctions between the natural and the human sciences.
+I am currently at work on two major projects. My first book manuscript, **The Science of Expression: Nature, Culture and Gesture in Modern Germany**, tells the story of how gesture became the object of a hybrid scientific knowledge in early twentieth-century Germany. Through a series of interdisciplinary encounters, the book reveals how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expression, unsettling divides between the natural and the human sciences in ways that anticipate contemporary debates around affect, embodiment and posthumanism.
 
-My current project centers on the first ever exhibition of global art history in Germany, organized by the historian Karl Lamprecht in 1914. Entitled **World Art History and the Deep Time of Empire: Karl Lamprecht's Hall of Culture**, the book situates this long-overlooked exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War. Bridging the ideological ambitions in the metropole with colonial realities in the German Empire, it revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism and the universal museum. 
+My current project centers on the first ever exhibition of global art history in Germany, organized by the historian Karl Lamprecht in 1914. Entitled **World Art and the Deep Time of Empire: Karl Lamprecht's Hall of Culture**, the book situates this long-overlooked exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War. Bridging the ideological ambitions in the metropole with colonial realities in the German Empire, it revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism and the universal museum. 
 
-This year I am co-convening the working group on [Colonial Science in the German Empire at the Consortium for Science, Technology and Medicine](https://www.chstm.org/content/colonial-science-german-empire-0).
+From 2022 to 2023 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine.
 
 
 ---
