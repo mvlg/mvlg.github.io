@@ -6,7 +6,7 @@ layout: homepage
 
 ---
 
-I am an intellectual historian with a focus on modern Germany. My work deals with the interconnected histories of aesthetics, anthropology, and the life sciences. I am particularly interested in the ways that images shape and disrupt our understanding of what it means to be human. 
+I am a historian of art and science with a focus on modern Germany. My work deals with the interconnected histories of aesthetics, anthropology, and the life sciences. I am particularly interested in the ways that images shape and disrupt our understanding of what it means to be human. 
 
 I hold a PhD in German from Princeton University. Since 2018 I have been a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. 
 
