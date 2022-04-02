@@ -14,7 +14,7 @@ I am currently at work on two major projects. My first book manuscript, **The Sc
 
 My current project centers on the first ever exhibition of global art history in Germany, organized by the historian Karl Lamprecht in 1914. Entitled **World Art and the Deep Time of Empire: Karl Lamprecht's Hall of Culture**, the book situates this long-overlooked exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War. Bridging the ideological ambitions in the metropole with colonial realities in the German Empire, it revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism and the universal museum. 
 
-From 2022 to 2023 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine.
+From 2021 to 2022 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine.
 
 
 ---
