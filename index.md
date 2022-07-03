@@ -22,7 +22,7 @@ From 2021 to 2022 I co-convened the working group on [Colonial Science in the Ge
 
 **Edited Volumes**
 
-* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin: De Gruyter). Forthcoming in May 2022.
+* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin: De Gruyter, 2022).
 
 **Articles**
 
