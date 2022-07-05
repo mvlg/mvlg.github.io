@@ -6,7 +6,7 @@ layout: homepage
 
 ---
 
-I am an intellectual historian of modern Germany working at the intersection of aesthetics, anthropology and the life sciences. I am a postdoctoral research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. I received my PhD in German from Princeton University in 2019.
+I am a historian of modern Germany working at the intersection of aesthetics, anthropology and the life sciences. I am a postdoctoral research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. I received my PhD in German from Princeton University in 2019.
 
 I am currently at work on two major projects. The first centers on the first exhibition of world art history in Germany, organized by the historian Karl Lamprecht in 1914. Entitled **The Imperial Childhood of World Art**, the book situates this long-overlooked exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War. Bridging the ideological ambitions in the metropole with colonial realities in the German Empire, it revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism and the universal museum. 
 
