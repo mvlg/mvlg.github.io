@@ -30,7 +30,7 @@ During the period between 1890 and 1940, archaeologists, anthropologists and geo
 
 A first iteration of this project was a [2021 essay](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) detailing the history of diffusionist anthropology and cultural morphology in Germany. Together with Frederika Tevebring, I convene the research network ‘Migrating Prehistories’, based at King’s College, London, and the Warburg Institute.
 
-Below are some of my publications. Feel free to contact me by e-mail if you would like to get in touch or learn more!
+Below are some of my publications. Feel free to contact me by e-mail if you have questions or would like to chat.
 
 
 ---
