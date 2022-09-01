@@ -2,17 +2,35 @@
 layout: homepage
 
 ---
-## About Me
+## About Me 
 
----
+I am a historian of modern Germany, working at the intersection of aesthetics, anthropology, and the life sciences. My research explores how images and ideas around the “irrational” and “archaic” have informed scientific and cultural practices, enfolding the history of German art, philosophy and media within a global, colonial and trans-imperial context. I am also interested in the ways that technologically mediated engagements with nonhuman life and the natural environment have impacted German philosophical and political thought. 
 
-I am a historian of modern Germany working at the intersection of aesthetics, anthropology and the life sciences. I am a postdoctoral research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. I received my PhD in German from Princeton University in 2019.
+I am currently a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org). I received my PhD from Princeton University in 2019. Originally trained as a Germanist with a background in literary studies, I take an interdisciplinary approach to the epistemic transfers between the arts, humanities and the natural sciences in modern Germany and beyond. My work draws on methods from the history of science, media theory, and visual and material culture. Below are a selection of my research:
 
-I am currently at work on two major projects. The first centers on the first exhibition of world art history in Germany, organized by the historian Karl Lamprecht in 1914. Entitled **The Imperial Childhood of World Art**, the book situates this long-overlooked exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War. Bridging the ideological ambitions in the metropole with colonial realities in the German Empire, it revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism and the universal museum. 
+## The Science of Expression
 
-My second book manuscript, **The Science of Expression: Nature, Culture and Gesture in Modern Germany**, reveals how art historians, philosophers, biologists, psychologists and filmmakers in the Wilhelmine and Weimar years worked together to construct a new science of bodily expression. In response to the pressures of rationalization and industrial modernity, this heterogeneous group projected an alternative epistemology of gesture that probed the boundaries of the body, the mind, and of scientific knowledge itself. Through a series of unlikely encounters, I show how their interdisciplinary experiments on expressive movement challenged the divides between nature and culture in ways that provide new perspectives on contemporary questions around affect, embodiment and posthumanism.
+Based on my 2019 dissertation, my current book manuscript provides the first history of Ausdruckskunde, a subversive science of expressive gesture that developed in early twentieth-century Germany. Through a series of interdisciplinary encounters, The Science of Expression reveals how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expressivity: a phenomenon that then as now unsettles distinctions between nature and culture, mind and body, human and nonhuman. Drawing on new archival sources and encompassing figures like Aby Warburg, Helmuth Plessner, and Sergei Eisenstein, the book demonstrates how this heterodox inquiry into expressiveness harnessed techniques of scientific rationalization in order to recover the unalienated experience of bodily knowledge.
 
-From 2021 to 2022 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine.
+[_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), a recently-published volume co-edited with Frank Fehrenbach, explores some of the wider methodological ramifications of the science of expression for reimagining the interwoven histories of art and science today. [link]
+
+## Anthropology, Aesthetics, Colonialism
+	
+More recently, I have been concerned with examining how the reception and interpretation of non-Western art and artifacts have unfolded in relation to colonial ideologies and institutions. My first monograph, **The Imperial Childhood of World Art** (forthcoming) reconstructs the first exhibition of global art history in Germany, organized by the historian Karl Lamprecht in 1914. Situating this exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War, the book revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism and the universal museum.
+
+Other texts I have written address topics such as the ethnopsychological analysis of indigenous drawing in German Melanesia; Aby Warburg’s encounters with the Bureau of American Ethnology; and, in a forthcoming co-authored article with Mirjam Brusius, the legacies of anthropological race science in Berlin’s antiquities collections. From 2021 to 2022 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine. I have been an associated editor of the [History of Anthropology Review](https://histanthro.org) since 2022.
+
+## Nature, Technology, Politics
+
+A major strand of my research addresses the aesthetic and political roles played by nonhuman nature, ecological systems, and organic form in twentieth-century Germany. With Gregory Bryda, I co-edited a recent special issue of the _Zeitschrift für Kunstgeschichte_ on [Art and Environment in the Third Reich](https://www.degruyter.com/journal/key/zkg/html?lang=en). I have also published on [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), anti-Darwinist biology and natural philosophy in the thought of Mies van der Rohe, and together with Marco Tamborini, an essay unpacking the reactionary political background of the scientific field known as ‘biotechnics’.
+
+## Migration as Method: Diffusionism and the Global Politics of the Deep Past
+
+During the period between 1890 and 1940, archaeologists, anthropologists and geographers developed a common method to model and visualize cultural origins by reconstructing the movements of artifacts, bodies, and customs across geographical space. My current long-term project examines the circulation of this diffusionist method, and the migrationist narratives it helped create, across disciplines and national institutions. Focusing on scholars in Great Britain, Germany, France and the United States, “Migration as Method” shows how their research into the prehistory of both “Western” and “non-Western” cultures developed in response to very contemporary motivations and concerns: globalization, nationalism, imperial expansion, capitalist trade networks, world war, diaspora, race and immigration. As I argue, these scientists’ ideas and theories about cultural diffusion and mobility continue to shape the way we navigate questions of national identity and ‘origins’ in today’s globalized and postcolonial world, bearing on issues that range from the legacies of genocide to debates over indigenous land rights. 
+
+A first iteration of this project was a [2021 essay](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) detailing the history of diffusionist anthropology and cultural morphology in Germany. Together with Frederika Tevebring, I convene the research network ‘Migrating Prehistories’, based at King’s College, London, and the Warburg Institute.
+
+Below is a list of selected publications. Please drop me a line by e-mail if you would like to get in touch. 
 
 
 ---
@@ -60,3 +78,4 @@ With ["Afterword: Hugo Ball’s Political* Theology."](https://www.mitpressjourn
 * “2007: _Zeitung_ \[on a photobook by Peter Piller\],” in “Notes for a History of the PhotoBook and the Archive”, <u>Aperture Magazine Photobook Review</u> (Spring 2016).
 * “Open Secret,” in: Geert Goiris, _Lying Awake_ (Amsterdam: Roma Publications, 2013).
 * “Batia Suter,” in: _Lieber Aby Warburg: Was tun mit Bildern? Vom Umgang mit fotographischem Material_, ed. Eva Schmidt (Siegen: Museum für Gegenwartkunst Siegen / Heidelberg: Kehrer Verlag, 2012).
+
