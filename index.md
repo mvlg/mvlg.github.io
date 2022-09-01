@@ -61,7 +61,7 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 
 * “‘With the Eyes of an Anthropologist.’ Aby Warburg and the Bureau of American Ethnology,” in [_Lightning Symbol and Snake Dance. Aby Warburg and Pueblo Art_](https://www.hatjecantz.de/lightning-symbol-and-snake-dance-8155-1.html?article_id=8155&clang=1), ed. Christine Chávez and Uwe Fleckner (Berlin: Hatje Cantz, 2022), 51–57.
 * “The Library of Life. Mies's Work and Biology” / “Die Bibliothek des Lebens. Mies’ Werk und die Biologie.” [_Lehmbruck - Kolbe - Mies van der Rohe. Künstliche Biotope / Artificial Biotopes_](https://www.hirmerverlag.de/eu/titel-3-3/lehmbruck_kolbe_mies_van_der_rohe-2196/), ed. Sylvia Martin und Julia Wallner (Munich: Hirmer Verlag, 2021), 195–217.
-* 
+
 * **Reviews**
 
 * “[Faustian Bargains: The Legends and Legacies of German ‘Liberal Ethnology’](https://histanthro.org/reviews/faustian-bargains/)” \[Review of H. Glenn Penny, _Im Schatten Humboldts. Eine tragische Geschichte der deutschen Ethnologie_\], <u>History of Anthropology Review</u>, Volume 44.
