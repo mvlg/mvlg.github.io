@@ -22,7 +22,7 @@ Other texts of mine have addressed topics such as the ethnopsychological analysi
 
 ### Nature, Technology, Politics
 
-Another major strand of my research addresses the aesthetic and political roles played by nonhuman nature, ecological systems, and organic form in twentieth-century Germany. With Gregory Bryda, I co-edited a recent special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, which brings together scholars from both medieval and modern periods to offer new perspectives on the representation and manipulation of nature under fascism. I have also published on themes ranging from [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), to the importance of anti-Darwinist biology and natural philosophy in the thought of the modernist architect Mies van der Rohe.
+Another major strand of my research addresses the aesthetic and political roles played by nonhuman nature, ecological systems, and organic form in twentieth-century Germany. With Gregory Bryda, I co-edited a recent special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, which brings together scholars from both medieval and modern periods to offer new perspectives on the representation and manipulation of nature under fascism. I have also published on themes  from [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), to the place of anti-Darwinist biology and natural philosophy in the thought of the modernist architect Mies van der Rohe.
 
 ### Migration as Method: Diffusionism and the Global Politics of the Deep Past
 
@@ -62,7 +62,7 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 * “‘With the Eyes of an Anthropologist.’ Aby Warburg and the Bureau of American Ethnology,” in [_Lightning Symbol and Snake Dance. Aby Warburg and Pueblo Art_](https://www.hatjecantz.de/lightning-symbol-and-snake-dance-8155-1.html?article_id=8155&clang=1), ed. Christine Chávez and Uwe Fleckner (Berlin: Hatje Cantz, 2022), 51–57.
 * “The Library of Life. Mies's Work and Biology” / “Die Bibliothek des Lebens. Mies’ Werk und die Biologie.” [_Lehmbruck - Kolbe - Mies van der Rohe. Künstliche Biotope / Artificial Biotopes_](https://www.hirmerverlag.de/eu/titel-3-3/lehmbruck_kolbe_mies_van_der_rohe-2196/), ed. Sylvia Martin und Julia Wallner (Munich: Hirmer Verlag, 2021), 195–217.
 
-* **Reviews**
+**Reviews**
 
 * “[Faustian Bargains: The Legends and Legacies of German ‘Liberal Ethnology’](https://histanthro.org/reviews/faustian-bargains/)” \[Review of H. Glenn Penny, _Im Schatten Humboldts. Eine tragische Geschichte der deutschen Ethnologie_\], <u>History of Anthropology Review</u>, Volume 44.
 * [“Seductio ad Absurdum”](https://academic.oup.com/oaj/article-abstract/43/1/152/5766082) \[Review of Matthew Rampley, _The Seductions of Darwin: Art, Evolution, Neuroscience_\], <u>Oxford Art Journal</u>, Volume 43, Issue 1 (March 2020), 152–155.
