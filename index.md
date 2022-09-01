@@ -72,12 +72,4 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 **Translations**
 
 * ["Carl Schmitt’s Political Theology"](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00157) \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
-With ["Afterword: Hugo Ball’s Political* Theology."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96.  
-    <sub>*For reasons unclear to me, the editor dropped the word 'political' just before the issue went to press. Those anticipating a Dadaist catechism will be disappointed.</sub>
-
-**Art Writing**
-
-* "Mnemic Seizures in the Digestive Tract of the Universe” and "Blood is never buried – it only ever flows” in: _Elise Florenty & Marcel Türkowsky: One head too many_ (Berlin: Bom Dia Boa Tarde Boa Noite, 2017).
-* “2007: _Zeitung_ \[on a photobook by Peter Piller\],” in “Notes for a History of the PhotoBook and the Archive”, <u>Aperture Magazine Photobook Review</u> (Spring 2016).
-* “Open Secret,” in: Geert Goiris, _Lying Awake_ (Amsterdam: Roma Publications, 2013).
-* “Batia Suter,” in: _Lieber Aby Warburg: Was tun mit Bildern? Vom Umgang mit fotographischem Material_, ed. Eva Schmidt (Siegen: Museum für Gegenwartkunst Siegen / Heidelberg: Kehrer Verlag, 2012).
+With ["Afterword: Hugo Ball’s /Political/ Theology."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96.  
