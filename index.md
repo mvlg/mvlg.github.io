@@ -4,7 +4,7 @@ layout: homepage
 ---
 ## About Me 
 
-I am a historian of modern Germany, working at the intersection of aesthetics, anthropology, and the life sciences. My research explores how images and ideas around the irrational and archaic have informed scientific and cultural practices, and enfolds this quintessentially German history within a wider colonial and trans-imperial context. I am additionally interested in the ways that technologically mediated engagements with nonhuman life and the natural environment have impacted German philosophical and political thought. 
+I am a historian of modern Germany, working at the intersection of aesthetics, anthropology, and the life sciences. My research explores how images and ideas around the irrational and archaic have informed scientific and cultural practices, and enfolds this quintessentially German history within a wider colonial and trans-imperial context. I am additionally interested in the ways that technologically mediated engagements with nonhuman life and the natural environment have animated German philosophical and political thought. 
 
 I am currently a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. I received my PhD from Princeton University in 2019. Originally trained as a Germanist with a background in literary studies, I take an interdisciplinary approach to the epistemic transfers between the arts, humanities and the natural sciences that draws on methods from the history of science, media theory, and visual culture studies. Below are a few of my major research strands.
 
