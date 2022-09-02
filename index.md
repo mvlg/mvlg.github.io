@@ -40,18 +40,18 @@ Below are some of my publications. Feel free to contact me by e-mail if you have
 
 **Edited Volumes**
 
-* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin: De Gruyter, 2022).
+* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022).
 * _Art and Environment in the Third Reich_, Special Issue co-edited by Gregory Bryda, <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022).
 
 **Articles**
 
 * "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), in press.
 * “Introduction: Race and Landscape in Nazi Germany,”  <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022), 289–308.
-* "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/New York: De Gruyter), 57–88.
+* "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/Boston: De Gruyter), 57–88.
 * “‘Dinamicheskaia poliarizatsia posredstvom vosstanovlennogo vospominania’: energeticheskaia psikhoistoria Abi Varburga.” [Dynamic Polarization through Restored Memory: Aby Warburg’s Energetic Psychohistory], [Energia: transformatsii sily, metamorfozy ponjatia](https://www.nlobooks.ru/books/intellektualnaya_istoriya/24595/), ed. Ilya Kalinin, Jurij Murašov and Susanne Strätling (Moscow: Novoe literaturnoe obozrenie, 2022), 140–162.
-* "Die Pflanze als Erfinder. Raoul Francé, die Biotechnik und die Avantgarde der Zwischenkriegszeit." _Form- und Bewegungskräfte in Kunst, Literatur und Wissenschaft_, ed. Lutz Hengst, Frank Fehrenbach, Frederike Middelhoff and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2021), 253–291.
+* "Die Pflanze als Erfinder. Raoul Francé, die Biotechnik und die Avantgarde der Zwischenkriegszeit." _Form- und Bewegungskräfte in Kunst, Literatur und Wissenschaft_, ed. Lutz Hengst, Frank Fehrenbach, Frederike Middelhoff and Cornelia Zumbusch (Berlin/Boston: De Gruyter, 2021), 253–291.
 * "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35–36: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) (2021), 378–399.
-* [“The Archaeology of Expression: Aby Warburg’s _Ausdruckskunde_.”](https://www.degruyter.com/document/doi/10.1515/9783110583410-010/html) _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/New York: De Gruyter, 2019), 121–148.
+* [“The Archaeology of Expression: Aby Warburg’s _Ausdruckskunde_.”](https://www.degruyter.com/document/doi/10.1515/9783110583410-010/html) _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/Boston: De Gruyter, 2019), 121–148.
 * [“Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany."](https://www.mitpressjournals.org/doi/pdf/10.1162/grey_a_00252) <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93.  
 Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dans l’Allemagne de Weimar.” [_Puissances du végétal_](https://www.lespressesdureel.com/EN/ouvrage.php?id=7775), ed. Teresa Castro, Perig Pitrou and Marie Rebecchi (Dijon: Les presses du réel, 2020), 195–223.
 * [“Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.”](https://onlinelibrary.wiley.com/doi/abs/10.1111/criq.12325) <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122.
