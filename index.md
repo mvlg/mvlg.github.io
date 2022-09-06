@@ -22,7 +22,7 @@ Other texts of mine have addressed topics such as the ethnopsychological analysi
 
 ### Nature, Technology, Politics
 
-Another major strand of my research addresses the aesthetic and political roles played by nonhuman nature, ecological systems, and organic form in twentieth-century Germany. With Gregory Bryda, I co-edited a 2022 special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, which brings together scholars from both medieval and modern periods to offer new perspectives on the representation and manipulation of nature under fascism. I have also published on themes  from [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), to the place of anti-Darwinist biology and natural philosophy in the thought of the modernist architect Mies van der Rohe.
+Another major strand of my research addresses the aesthetic and political roles that nonhuman nature, ecological systems, and organic form have played in twentieth-century Germany. With Gregory Bryda, I co-edited a 2022 special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, which brings together scholars from both medieval and modern periods to offer new perspectives on the representation and manipulation of nature under fascism. I have also published on themes  from [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), to the place of anti-Darwinist biology and natural philosophy in the thought of the modernist architect Mies van der Rohe.
 
 ### Migration as Method: Diffusionism and the Global Politics of the Deep Past
 
@@ -30,7 +30,7 @@ During the period between 1890 and 1940, archaeologists, anthropologists and geo
 
 A first iteration of this project was a [2021 essay](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) detailing the history of diffusionist anthropology and cultural morphology in Germany. Together with Frederika Tevebring, I convene the research network ‘Migrating Prehistories’, based at King’s College, London, and the Warburg Institute.
 
-Below are some of my publications. Feel free to contact me by e-mail if you have questions or would like to chat.
+Below are some of my publications. Feel free to send me an e-mail if you would like to get in touch.
 
 
 ---
