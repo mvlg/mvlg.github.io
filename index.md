@@ -4,9 +4,7 @@ layout: homepage
 ---
 ## About Me 
 
-I am a historian of modern Germany, working at the intersection of aesthetics, anthropology, and the life sciences. My research explores how ideas around the irrational, archaic and "primitive" have informed scientific and cultural practices. Drawing on methods from the history of science, media theory, and visual culture studies, my work enfolds the history of this quintessentially German preoccupation within a wider colonial and trans-imperial context. I am also interested in the ways that technologically mediated engagements with nonhuman life and the natural environment have animated modern philosophical and political thought. 
-
-I am currently a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. I received my PhD from Princeton University in 2019. Originally trained as a Germanist with a background in literary studies, I take an interdisciplinary approach to the epistemic transfers between the arts, humanities and the natural sciences. Below are a few of my major research strands.
+I am a cultural historian of science and media with a focus on modern central Europe. My research deals with the intersecting histories of anthropology, psychology, and the legacies of colonialism. I am particularly interested in how visual media practices inform scientific knowledge about culture and the mind. I am currently a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. I received my PhD from Princeton University in 2019. Originally trained as a Germanist with a background in literary studies, I take an interdisciplinary approach to the epistemic transfers between the arts, humanities and the natural sciences. Below are a few of my major research strands.
 
 ### The Science of Expression
 
