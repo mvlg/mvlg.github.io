@@ -43,9 +43,9 @@ Below are some of my publications. Feel free to send me an e-mail if you would l
 
 **Articles**
 
-* "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), in press.
-* “Introduction: Race and Landscape in Nazi Germany,”  <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022), 289–308.
-* "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/Boston: De Gruyter), 57–88.
+* "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), 15–30.
+* "Introduction: Race and Landscape in Nazi Germany." <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022), 289–308.
+* "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022), 57–88.
 * “‘Dinamicheskaia poliarizatsia posredstvom vosstanovlennogo vospominania’: energeticheskaia psikhoistoria Abi Varburga.” [Dynamic Polarization through Restored Memory: Aby Warburg’s Energetic Psychohistory], [Energia: transformatsii sily, metamorfozy ponjatia](https://www.nlobooks.ru/books/intellektualnaya_istoriya/24595/), ed. Ilya Kalinin, Jurij Murašov and Susanne Strätling (Moscow: Novoe literaturnoe obozrenie, 2022), 140–162.
 * "Die Pflanze als Erfinder. Raoul Francé, die Biotechnik und die Avantgarde der Zwischenkriegszeit." _Form- und Bewegungskräfte in Kunst, Literatur und Wissenschaft_, ed. Lutz Hengst, Frank Fehrenbach, Frederike Middelhoff and Cornelia Zumbusch (Berlin/Boston: De Gruyter, 2021), 253–291.
 * "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35–36: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) (2021), 378–399.
