@@ -4,7 +4,7 @@ layout: homepage
 ---
 ## About Me 
 
-I am a cultural historian of science and media with a focus on modern central Europe. My research deals with the intersecting histories of anthropology, psychology, and the legacies of colonialism. I am particularly interested in how visual media practices inform scientific knowledge about culture and the mind. I am currently a research associate at the [Warburg Institute](https://warburg.sas.ac.uk), University of London, where I am a member of the [Bilderfahrzeuge](https://bilderfahrzeuge.hypotheses.org) project. I received my PhD from Princeton University in 2019. Originally trained as a Germanist with a background in literary studies, I take an interdisciplinary approach to the epistemic transfers between the arts, humanities and the natural sciences. Below are a few of my major research strands.
+I am a cultural historian of modern central Europe. My research deals with circulations of images and knowledge between the arts, humanities and the natural sciences, with special attention to the intersecting histories of anthropology, aesthetics and psychology. I received my PhD from Princeton University in 2019. Below are a few of my major research strands.
 
 ### The Science of Expression
 
@@ -20,7 +20,7 @@ Other texts of mine have addressed topics such as the ethnopsychological analysi
 
 ### Nature, Technology, Politics
 
-Another major strand of my research addresses the aesthetic and political roles that nonhuman nature, ecological systems, and organic form have played in twentieth-century Germany. With Gregory Bryda, I co-edited a 2022 special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, which brings together scholars from both medieval and modern periods to offer new perspectives on the representation and manipulation of nature under fascism. I have also published on themes  from [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), to the place of anti-Darwinist biology and natural philosophy in the thought of the modernist architect Mies van der Rohe.
+Another major strand of my research addresses the aesthetic and political roles that nonhuman nature, ecological systems, and organic form have played in twentieth-century Germany. With Gregory Bryda, I co-edited a 2022 special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, which brings together scholars from both medieval and modern periods to offer new perspectives on the representation and manipulation of nature under fascism. I have also published on themes from [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), to the place of anti-Darwinist biology and natural philosophy in the thought of the modernist architect Mies van der Rohe, and (with Marco Tamborini) a forthcoming essay exploring the labile politics behind the scientific field known as 'biotehnics'.
 
 ### Migration as Method: Diffusionism and the Global Politics of Prehistory
 
@@ -43,6 +43,7 @@ Below are some of my publications. Feel free to send me an e-mail if you would l
 
 **Articles**
 
+* "Biotechnics and Politics. A Genealogy of Nonhuman Technology" (with Marco Tamborini). Forthcoming in _History of Science_.
 * "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), 15–30.
 * "Introduction: Race and Landscape in Nazi Germany." <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022), 289–308.
 * "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022), 57–88.
