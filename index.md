@@ -16,7 +16,7 @@ Based on my 2019 dissertation, my current book manuscript provides the first his
 	
 More recently, I have been concerned with how the reception and interpretation of non-Western art and artifacts have unfolded in relation to colonial ideologies and institutions. My forthcoming first monograph, **The Imperial Childhood of World Art** reconstructs the first exhibition of global art history in Germany, organized by the historian Karl Lamprecht in 1914. Situating this exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War, the book revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism and the universal museum.
 
-Other texts of mine have addressed topics such as the ethnopsychological analysis of indigenous drawings in German Melanesia, and the art historian Aby Warburg’s interactions with the Bureau of American Ethnology. From 2021 to 2022 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine. I have been an associate editor of the [History of Anthropology Review](https://histanthro.org) since 2022.
+From 2021 to 2022 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine. I have been an associate editor of the [History of Anthropology Review](https://histanthro.org) since 2022.
 
 ### Nature, Technology, Politics
 
