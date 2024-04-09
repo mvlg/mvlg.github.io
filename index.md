@@ -4,7 +4,7 @@ layout: homepage
 ---
 ## About Me 
 
-I am a cultural historian of science with a focus on modern central Europe. My research explores the epistemic role of images in changing conceptions of human difference across anthropology, aesthetics and the life sciences. I received my PhD from Princeton University in 2019. Below are a few of my major research strands.
+I am a cultural historian specializing in the science, politics, and visual culture of modern central Europe. I am currently NOMIS Fellow at eikones – Center for the Theory and History of the Image, University of Basel. I completed my PhD in German at Princeton University in 2019 and have held academic appointments at the Warburg Institute, University of London; the University of Hamburg; and the Center for Literary and Cultural Research, Berlin. Below are some of my research areas.
 
 ### The Science of Expression
 
@@ -20,11 +20,11 @@ From 2021 to 2022 I co-convened the working group on [Colonial Science in the Ge
 
 ### Nature, Technology, Politics
 
-Another major strand of my research addresses the aesthetic and political roles that nonhuman nature, ecological systems, and organic form have played in twentieth-century Germany. With Gregory Bryda, I co-edited a 2022 special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, which brings together scholars from both medieval and modern periods to offer new perspectives on the representation and manipulation of nature under fascism. I have also published on themes from [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), to the place of anti-Darwinist biology and natural philosophy in the thought of the modernist architect Mies van der Rohe, and (with Marco Tamborini) a forthcoming essay examining how German politics informed modern ideas about nonhuman technology.
+Other work of mine has addressed twentieth-century German perspectives on nonhuman nature, ecological systems, and organic form. With Gregory Bryda, I co-edited a 2022 special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, on the representation and manipulation of nature under fascism. Related publications have dealt with [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), the role of anti-Darwinist biology and natural philosophy in the thought of the modernist architect Mies van der Rohe, and (with Marco Tamborini) an essay on relationship between German politics and modern ideas about nonhuman technology.
 
-### Migration as Method: Diffusionism and the Global Politics of Prehistory
+### Migration as Method: Diffusionism and the Global Politics of the Deep Past, 1890–1960
 
-During the period between 1890 and 1940, archaeologists and anthropologists developed a common method to model and visualize cultural origins by reconstructing the movements of artifacts, bodies, and customs across geographical space. My current long-term project examines the circulation of this diffusionist method, and the migrationist narratives it helped create, across disciplines and national institutions. Focusing on scholars in Germany, Austria, Great Britain, the United States and Mexico, “Migration as Method” investigates how a new, global scope of prehistory developed in response to very contemporary motivations and concerns: nationalism, colonization, economic integration, world wars, imperial expansion, diaspora, and mass displacement. As I argue, early twentieth-century ideas and theories about cultural diffusion and mobility continue to shape discussions around national identity and ‘origins’ in today’s globalized world, bearing on issues that range from the legacies of genocide to debates over indigenous land rights. 
+During the period between 1890 and 1960, archaeologists and anthropologists developed a common method to model and visualize cultural origins. By comparing far-flung artifacts, ideas and practices, they aimed to reconstruct the ancient migrations of peoples and cultures on a global scale. Widely known under the name of 'diffusionism', this method itself quickly diffused across disciplines and national institutions, especially in Germany, Austria, France, Great Britain, the United States and Mexico. My current project investigates how the search for culture contacts in the deep past responded to very contemporary motivations and concerns, including nationalism, colonization, world wars, imperial expansion, diaspora, and forced migration. The project aims to unpack the ambivalent legacy of these early twentieth-century theories of cultural diffusion, which continue to inform discussions around migration, identity and belonging today.
 
 A first iteration of this project was a [2021 essay](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) detailing the history of diffusionist anthropology and cultural morphology in Germany. Together with Frederika Tevebring, I convene the research network ‘Migrating Prehistories’, based at King’s College, London, and the Warburg Institute.
 
@@ -43,7 +43,8 @@ Below are some of my publications. Feel free to send me an e-mail if you would l
 
 **Articles**
 
-* "Biotechnics and Politics. A Genealogy of Nonhuman Technology" (with Marco Tamborini). Forthcoming in _History of Science_.
+* "Before _Mnemosyne_: Wilhelmine Cultural History Exhibitions and the Genesis of Warburg's Picture Atlas." _Berichte zur Wissenschaftsgeschichte / History of Science and Humanities_ (2024): https://doi.org/10.1002/bewi.202300014
+* "Biotechnics and Politics. A Genealogy of Nonhuman Technology" (with Marco Tamborini). _History of Science_ (2023): https://doi.org/10.1177/007327532311876
 * "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), 15–30.
 * "Introduction: Race and Landscape in Nazi Germany." <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022), 289–308.
 * "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022), 57–88.
