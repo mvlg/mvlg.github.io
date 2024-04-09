@@ -39,7 +39,7 @@ Below are some of my publications. Feel free to send me an e-mail if you would l
 **Edited Volumes**
 
 * [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022).
-* _Art and Environment in the Third Reich_, Special Issue co-edited with Gregory Bryda, <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022).
+* [_Art and Environment in the Third Reich_](https://www.degruyter.com/journal/key/zkg/85/3/html?lang=en), Special Issue co-edited with Gregory Bryda, <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022).
 
 **Articles**
 
