@@ -4,7 +4,7 @@ layout: homepage
 ---
 ## About Me 
 
-I am a cultural historian specializing in the science, politics, and visual culture of modern central Europe. I am currently NOMIS Fellow at eikones – Center for the Theory and History of the Image, University of Basel. I completed my PhD in German at Princeton University in 2019 and have held academic appointments at the Warburg Institute, University of London; the University of Hamburg; and the Center for Literary and Cultural Research, Berlin. Below are some of my research areas.
+I am a cultural historian specializing in the science, politics, and visual culture of modern central Europe. My work examines how images and optical media have informed the production of knowledge about the body, nature, and human history between 1850 and 1950. I completed my PhD in German at Princeton University in 2019 and have held academic appointments at the Warburg Institute, University of London; the University of Hamburg; and the Center for Literary and Cultural Research, Berlin. I am currently NOMIS Fellow at eikones – Center for the Theory and History of the Image at the University of Basel. Below are some of my principal areas of research:
 
 ### The Science of Expression
 
