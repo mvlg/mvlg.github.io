@@ -8,13 +8,13 @@ I am a cultural historian specializing in the science, politics, and visual cult
 
 ### The Science of Expression
 
-Based on my 2019 dissertation, my current book manuscript provides the first history of _Ausdruckskunde_, a subversive science of expressive gesture that developed in early twentieth-century Germany. Through a series of interdisciplinary encounters, **The Science of Expression** reveals how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expressivity: a phenomenon that then as now unsettles distinctions between nature and culture, mind and body, human and nonhuman. Drawing on new archival sources and encompassing figures like Aby Warburg, Helmuth Plessner, and Sergei Eisenstein, the book demonstrates how this heterodox inquiry into expressiveness harnessed techniques of scientific rationalization in pursuit of the unalienated experience of bodily knowledge.
+I am currently completing a manuscript on the history of _Ausdruckskunde_, a subversive science of expressive gesture that developed in early twentieth-century Germany. Through a series of interdisciplinary encounters, **The Science of Expression** reveals how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expressivity: a phenomenon that then as now unsettles distinctions between nature and culture, mind and body, human and nonhuman. Drawing on new archival sources and encompassing figures like Aby Warburg, Helmuth Plessner, and Sergei Eisenstein, the book demonstrates how this heterodox inquiry into expressiveness harnessed techniques of scientific rationalization in pursuit of the unalienated experience of bodily knowledge.
 
 [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), a 2022 volume co-edited with Frank Fehrenbach, explores some of the wider methodological ramifications of the science of expression for reimagining the interwoven histories of art and science today.
 
 ### Anthropology, Aesthetics, Colonialism
 	
-My short book project, **The Imperial Childhood of World Art**, reconstructs the first exhibition of global art history in Germany, organized by the historian Karl Lamprecht in 1914. Situating this exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War, the book revises the genealogy of “global art history” while intervening in contemporary debates around Eurocentrism, the universal museum, and Germany's colonial past.
+Forthcoming with the Bard Graduate Center, my monograph **The Imperial Childhood of World Art** reconstructs the first exhibition of world art history in Germany, organized by the historian Karl Lamprecht in 1914. Situating this exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War, the book proposes an alternative genealogy of contemporary global art history that emerges from the conflicted encounter between Enlightenment ideals and colonial dynamics.
 
 From 2021 to 2022 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine. I have been an associate editor of the [History of Anthropology Review](https://histanthro.org) since 2022.
 
@@ -72,4 +72,4 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 **Translations**
 
 * ["Carl Schmitt’s Political Theology"](https://doi.org/10.1162/OCTO_a_00157) \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
-With ["Afterword: Hugo Ball’s <Political> Theology."](https://doi.org/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96. <The 'Political' was inexplicably removed by the editor just before the piece went to print.>
+With ["Afterword: Hugo Ball’s *Political Theology."](https://doi.org/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96. *The 'Political' was inexplicably removed by the editor just before the piece went to print.
