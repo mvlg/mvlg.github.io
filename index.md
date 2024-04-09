@@ -72,4 +72,4 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 **Translations**
 
 * ["Carl Schmitt’s Political Theology"](https://doi.org/10.1162/OCTO_a_00157) \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
-With ["Afterword: Hugo Ball’s /*Political/ Theology."](https://doi.org/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96.  
+With ["Afterword: Hugo Ball’s <Political> Theology."](https://doi.org/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96. <The 'Political' was inexplicably removed by the editor just before the piece went to print.>
