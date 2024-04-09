@@ -43,19 +43,19 @@ Below are some of my publications. Feel free to send me an e-mail if you would l
 
 **Articles**
 
-* "Before _Mnemosyne_: Wilhelmine Cultural History Exhibitions and the Genesis of Warburg's Picture Atlas." _Berichte zur Wissenschaftsgeschichte / History of Science and Humanities_ (2024): https://doi.org/10.1002/bewi.202300014
-* "Biotechnics and Politics. A Genealogy of Nonhuman Technology" (with Marco Tamborini). _History of Science_ (2023): https://doi.org/10.1177/007327532311876
-* "The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination." <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), 15–30.
-* "Introduction: Race and Landscape in Nazi Germany." <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022), 289–308.
-* "Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks." _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022), 57–88.
+* ["Before _Mnemosyne_: Wilhelmine Cultural History Exhibitions and the Genesis of Warburg's Picture Atlas."](https://doi.org/10.1002/bewi.202300014) _Berichte zur Wissenschaftsgeschichte / History of Science and Humanities_ (2024): Early View.
+* ["Biotechnics and Politics. A Genealogy of Nonhuman Technology"](https://doi.org/10.1177/007327532311876) (with Marco Tamborini). _History of Science_ (2023): OnlineFirst.
+* ["The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination."](https://doi.org/10.1086/722290) <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), 15–30.
+* ["Introduction: Race and Landscape in Nazi Germany."](https://doi.org/10.1515/ZKG-2022-3002) <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022), 289–308.
+* ["Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks."](https://doi.org/10.1515/9783110621440-006) _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022), 57–88.
 * “‘Dinamicheskaia poliarizatsia posredstvom vosstanovlennogo vospominania’: energeticheskaia psikhoistoria Abi Varburga.” [Dynamic Polarization through Restored Memory: Aby Warburg’s Energetic Psychohistory], [Energia: transformatsii sily, metamorfozy ponjatia](https://www.nlobooks.ru/books/intellektualnaya_istoriya/24595/), ed. Ilya Kalinin, Jurij Murašov and Susanne Strätling (Moscow: Novoe literaturnoe obozrenie, 2022), 140–162.
-* "Die Pflanze als Erfinder. Raoul Francé, die Biotechnik und die Avantgarde der Zwischenkriegszeit." _Form- und Bewegungskräfte in Kunst, Literatur und Wissenschaft_, ed. Lutz Hengst, Frank Fehrenbach, Frederike Middelhoff and Cornelia Zumbusch (Berlin/Boston: De Gruyter, 2021), 253–291.
+* ["Die Pflanze als Erfinder. Raoul Francé, die Biotechnik und die Avantgarde der Zwischenkriegszeit."](https://doi.org/10.1515/9783110743968-013) _Form- und Bewegungskräfte in Kunst, Literatur und Wissenschaft_, ed. Lutz Hengst, Frank Fehrenbach, Frederike Middelhoff and Cornelia Zumbusch (Berlin/Boston: De Gruyter, 2021), 253–291. 
 * "L'arc de l'histoire. De l'anthropologie diffusionniste à la morphologie des cultures." <u>La Part de l’Œil</u>, [Issue 35–36: 'André Leroi-Gourhan et l'esthétique / Art et anthropologie'](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) (2021), 378–399.
-* [“The Archaeology of Expression: Aby Warburg’s _Ausdruckskunde_.”](https://www.degruyter.com/document/doi/10.1515/9783110583410-010/html) _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/Boston: De Gruyter, 2019), 121–148.
-* [“Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany."](https://www.mitpressjournals.org/doi/pdf/10.1162/grey_a_00252) <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93.  
+* [“The Archaeology of Expression: Aby Warburg’s _Ausdruckskunde_."](https://doi.org/10.1515/9783110583410-010) _Aby Warburg und die Natur_, ed. Frank Fehrenbach and Cornelia Zumbusch (Berlin/Boston: De Gruyter, 2019), 121–148. 
+* [“Vegetal Gestures. Cinema and the Knowledge of Life in Weimar Germany."](https://doi.org/10.1162/grey_a_00252) <u>Grey Room</u>, Issue 72 (Summer 2018), 68–93. 
 Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dans l’Allemagne de Weimar.” [_Puissances du végétal_](https://www.lespressesdureel.com/EN/ouvrage.php?id=7775), ed. Teresa Castro, Perig Pitrou and Marie Rebecchi (Dijon: Les presses du réel, 2020), 195–223.
-* [“Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.”](https://onlinelibrary.wiley.com/doi/abs/10.1111/criq.12325) <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122.
-* ["The Archive and the Labyrinth: On the Contemporary _Bilderatlas_."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00187) <u>October</u>, Issue 149 (Summer 2014), 143–158.
+* [“Intersecting Lines: Sergei Eisenstein Writes to Ludwig Klages.”](https://doi.org/10.1111/criq.12325) <u>Critical Quarterly</u>, Volume 58, Issue 4 (February 2017), 113–122. 
+* ["The Archive and the Labyrinth: On the Contemporary _Bilderatlas_."](https://doi.org/10.1162/OCTO_a_00187) <u>October</u>, Issue 149 (Summer 2014), 143–158.
 
 **Catalogue Essays**
 
@@ -65,11 +65,11 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 **Reviews**
 
 * “[Faustian Bargains: The Legends and Legacies of German ‘Liberal Ethnology’](https://histanthro.org/reviews/faustian-bargains/)” \[Review of H. Glenn Penny, _Im Schatten Humboldts. Eine tragische Geschichte der deutschen Ethnologie_\], <u>History of Anthropology Review</u>, Volume 44.
-* [“Seductio ad Absurdum”](https://academic.oup.com/oaj/article-abstract/43/1/152/5766082) \[Review of Matthew Rampley, _The Seductions of Darwin: Art, Evolution, Neuroscience_\], <u>Oxford Art Journal</u>, Volume 43, Issue 1 (March 2020), 152–155.
+* [“Seductio ad Absurdum”](https://doi.org/10.1093/oxartj/kcz030) \[Review of Matthew Rampley, _The Seductions of Darwin: Art, Evolution, Neuroscience_\], <u>Oxford Art Journal</u>, Volume 43, Issue 1 (March 2020), 152–155.
 * [Review: Barbara Wittmann, _Bedeutungsvolle Kritzeleien: Eine Kultur- und Wissensgeschichte der Kinderzeichung, 1500–1950_.](https://bilderfahrzeuge.hypotheses.org/3609) Blog of the Bilderfahrzeuge Research Group. April 8, 2019.
 * [“Specters of the Primitive. A Review in Three Parts.”](https://bilderfahrzeuge.hypotheses.org/4487) Blog of the Bilderfahrzeuge Research Group. December 9, 2019.
 
 **Translations**
 
-* ["Carl Schmitt’s Political Theology"](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00157) \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
-With ["Afterword: Hugo Ball’s /Political/ Theology."](https://www.mitpressjournals.org/doi/pdf/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96.  
+* ["Carl Schmitt’s Political Theology"](https://doi.org/10.1162/OCTO_a_00157) \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
+With ["Afterword: Hugo Ball’s /*Political/ Theology."](https://doi.org/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96.  
