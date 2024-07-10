@@ -43,6 +43,7 @@ Below are some of my publications. Feel free to send me an e-mail if you would l
 
 **Articles**
 
+* ["The Reflex Republic: Physiologies of Art in the Early Soviet Union"](https://doi.org/10.1162/octo_a_00519) _October_ 188 (2024): 149–174.
 * ["Before _Mnemosyne_: Wilhelmine Cultural History Exhibitions and the Genesis of Warburg's Picture Atlas."](https://doi.org/10.1002/bewi.202300014) _Berichte zur Wissenschaftsgeschichte / History of Science and Humanities_ (2024): Early View.
 * ["Biotechnics and Politics. A Genealogy of Nonhuman Technology"](https://doi.org/10.1177/00732753231187676) (with Marco Tamborini). _History of Science_ (2023): OnlineFirst.
 * ["The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination."](https://doi.org/10.1086/722290) <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), 15–30.
@@ -72,4 +73,4 @@ Translated as: “Gestes végétaux. Le cinéma et la connaissance de la vie dan
 **Translations**
 
 * ["Carl Schmitt’s Political Theology"](https://doi.org/10.1162/OCTO_a_00157) \[annotated translation of a 1924 essay by Hugo Ball\]. <u>October</u>, Issue 146 (Fall 2013), 65–92.  
-With ["Afterword: Hugo Ball’s *Political Theology."](https://doi.org/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96. *The 'Political' was inexplicably removed by the editor just before the piece went to print.
+With ["Afterword: Hugo Ball’s *Political Theology."](https://doi.org/10.1162/OCTO_a_00160) <u>October</u>, Issue 146 (Fall 2013), 93–96. 
