@@ -43,9 +43,9 @@ Below are some of my publications. Feel free to send me an e-mail if you would l
 
 **Articles**
 
-* ["The Reflex Republic: Physiologies of Art in the Early Soviet Union"](https://doi.org/10.1162/octo_a_00519) _October_ 188 (2024): 149–174.
-* ["Before _Mnemosyne_: Wilhelmine Cultural History Exhibitions and the Genesis of Warburg's Picture Atlas."](https://doi.org/10.1002/bewi.202300014) _Berichte zur Wissenschaftsgeschichte / History of Science and Humanities_ (2024): Early View.
-* ["Biotechnics and Politics. A Genealogy of Nonhuman Technology"](https://doi.org/10.1177/00732753231187676) (with Marco Tamborini). _History of Science_ (2023): OnlineFirst.
+* ["The Reflex Republic: Physiologies of Art in the Early Soviet Union"](https://doi.org/10.1162/octo_a_00519) <u>October</u> 188 (2024): 149–174.
+* ["Before _Mnemosyne_: Wilhelmine Cultural History Exhibitions and the Genesis of Warburg's Picture Atlas."](https://doi.org/10.1002/bewi.202300014) <u>Berichte zur Wissenschaftsgeschichte / History of Science and Humanities</u> (2024): Early View.
+* ["Biotechnics and Politics. A Genealogy of Nonhuman Technology"](https://doi.org/10.1177/00732753231187676) (with Marco Tamborini). <u>History of Science</u> (2023): OnlineFirst.
 * ["The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination."](https://doi.org/10.1086/722290) <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), 15–30.
 * ["Introduction: Race and Landscape in Nazi Germany."](https://doi.org/10.1515/ZKG-2022-3002) <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022), 289–308.
 * ["Zwischensphären. Helmuth Plessners und Frederik Buytendijks ökologische Phänomenologie des Ausdrucks."](https://doi.org/10.1515/9783110621440-006) _Ökologien des Ausdrucks_, ed. Matthew Vollgraff and Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022), 57–88.
