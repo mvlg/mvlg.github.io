@@ -4,7 +4,7 @@ layout: homepage
 ---
 ## About Me 
 
-I am a cultural historian specializing in the science, politics, and visual culture of modern central Europe. My work examines how images and optical media have informed the production of knowledge about the body, nature, and human history between 1850 and 1950. I completed my PhD in German at Princeton University in 2019 and have held academic appointments at the Warburg Institute, University of London; the University of Hamburg; and the Center for Literary and Cultural Research, Berlin. I am currently NOMIS Fellow at eikones – Center for the Theory and History of the Image at the University of Basel. Below are some of my principal areas of research:
+I am a cultural historian specializing in the science, politics, and visual culture of modern central Europe. My work examines how visual media have informed the production of knowledge about the body, nature, and human history between 1850 and 1950. I completed my PhD in German at Princeton University in 2019 and have held academic appointments at the Warburg Institute, University of London; the University of Hamburg; and the Center for Literary and Cultural Research, Berlin. I am currently Senior Research Fellow in the History of Art at the University of California, Berkeley, where I am a member of the project “Depictured Worlds: The Perceptual Power of Pictures.” Below are some of my principal areas of research:
 
 ### The Science of Expression
 
@@ -43,7 +43,8 @@ Below are some of my publications. Feel free to send me an e-mail if you would l
 
 **Articles**
 
-* ["The Reflex Republic: Physiologies of Art in the Early Soviet Union"](https://doi.org/10.1162/octo_a_00519) <u>October</u> 188 (2024): 149–174.
+* ["Ethnopsychology in the Bismarck Archipelago: Richard Thurnwald and the visual anthropology of German colonialism"](https://doi.org/10.1177/09526951241255556) <u>History of the Human Sciences</u> (2024): OnlineFirst.
+* ["The Reflex Republic: Physiologies of Art in the Early Soviet Union."](https://doi.org/10.1162/octo_a_00519) <u>October</u> 188 (2024): 149–174.
 * ["Before _Mnemosyne_: Wilhelmine Cultural History Exhibitions and the Genesis of Warburg's Picture Atlas."](https://doi.org/10.1002/bewi.202300014) <u>Berichte zur Wissenschaftsgeschichte / History of Science and Humanities</u> (2024): Early View.
 * ["Biotechnics and Politics. A Genealogy of Nonhuman Technology"](https://doi.org/10.1177/00732753231187676) (with Marco Tamborini). <u>History of Science</u> (2023): OnlineFirst.
 * ["The Origins of Art around 1900. Gesture, Drawing, and the Ethnographic Imagination."](https://doi.org/10.1086/722290) <u>Res: Anthropology and aesthetics</u>, Volume 77-78 (2022), 15–30.
