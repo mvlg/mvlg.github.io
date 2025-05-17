@@ -4,45 +4,28 @@ layout: homepage
 ---
 ## About Me 
 
-I am a cultural historian specializing in the science, politics, and visual culture of modern central Europe. My work examines how visual media have informed the production of knowledge about the body, nature, and human history between 1850 and 1950. I completed my PhD in German at Princeton University in 2019 and have held academic appointments at the Warburg Institute, University of London; the University of Hamburg; and the Center for Literary and Cultural Research, Berlin. I am currently Senior Research Fellow in the History of Art at the University of California, Berkeley, where I am a member of the project “Depictured Worlds: The Perceptual Power of Pictures.” Below are some of my principal areas of research:
+I am a historian of science, media, and visual culture, with a focus on modern Germany and its global entanglements. I have held research appointments and fellowships at eikones—Center for the Theory and History of the Image, University of Basel; the Warburg Institute, University of London; the University of Hamburg; and the Leibniz Center for Literary and Cultural Research, Berlin. As a Senior Research Fellow at UC Berkeley, I am a core collaborator on the Depictured Worlds Project, [sponsored by the NOMIS Foundation, Zürich](https://nomisfoundation.ch/projects/depictured-worlds-the-perceptual-power-of-pictures/).
 
-### The Science of Expression
+My research explores how art and visual media have shaped scientific understandings of culture, the mind, and human history. My first book examines how the emerging study and display of “world art” in Wilhelmine Germany were intertwined with the objectives of imperial “world policy.” My forthcoming second book narrates the rise and fall of a transdisciplinary science of expressive gesture in interwar Germany, uncovering its impact on modernist culture's relationship to the body, technology, and the irrational.
 
-I am currently completing a manuscript on the history of _Ausdruckskunde_, a subversive science of expressive gesture that developed in early twentieth-century Germany. Through a series of interdisciplinary encounters, **The Science of Expression** reveals how art historians, philosophers, biologists, psychologists and filmmakers worked together to construct an alternative epistemology of somatic expressivity: a phenomenon that then as now unsettles distinctions between nature and culture, mind and body, human and nonhuman. Drawing on new archival sources and encompassing figures like Aby Warburg, Helmuth Plessner, and Sergei Eisenstein, the book demonstrates how this heterodox inquiry into expressiveness harnessed techniques of scientific rationalization in pursuit of the unalienated experience of bodily knowledge.
-
-[_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), a 2022 volume co-edited with Frank Fehrenbach, explores some of the wider methodological ramifications of the science of expression for reimagining the interwoven histories of art and science today.
-
-### Anthropology, Aesthetics, Colonialism
-	
-Forthcoming with the Bard Graduate Center, my monograph **The Imperial Childhood of World Art** reconstructs the first exhibition of world art history in Germany, organized by the historian Karl Lamprecht in 1914. Situating this exhibition within the wider context of German historical scholarship, scientific racism and imperial world policy on the eve of the First World War, the book proposes an alternative genealogy of contemporary global art history that emerges from the conflicted encounter between Enlightenment ideals and colonial dynamics.
-
-From 2021 to 2022 I co-convened the working group on [Colonial Science in the German Empire](https://www.chstm.org/content/colonial-science-german-empire-0) at the Consortium for Science, Technology and Medicine. I have been an associate editor of the [History of Anthropology Review](https://histanthro.org) since 2022.
-
-### Nature, Technology, Politics
-
-Other work of mine has addressed twentieth-century German perspectives on nonhuman nature, ecological systems, and organic form. With Gregory Bryda, I co-edited a 2022 special issue of the [Zeitschrift für Kunstgeschichte](https://www.degruyter.com/journal/key/zkg/html?lang=en) on _Art and Environment in the Third Reich_, on the representation and manipulation of nature under fascism. Related publications have dealt with [vegetal vitalism in Weimar cinema and philosophy](https://direct.mit.edu/grey/article-abstract/doi/10.1162/grey_a_00252/10781/Vegetal-Gestures-Cinema-and-the-Knowledge-of-Life?redirectedFrom=fulltext), Mies van der Rohe's reception of anti-Darwinist biology and natural philosophy, and (with Marco Tamborini) an essay on relationship between German politics and modern ideas about nonhuman technology.
-
-### Migration as Method: Diffusionism and the Global Politics of the Deep Past, 1890–1960
-
-During the period between 1890 and 1960, archaeologists and anthropologists developed a common method to model and visualize cultural origins. By comparing far-flung artifacts, ideas and practices, they aimed to reconstruct the ancient migrations of peoples and cultures on a global scale. Widely known under the name of 'diffusionism', this method itself quickly diffused across disciplines and national institutions, especially in Germany, Austria, France, Great Britain, the United States and Mexico. My current project investigates how the search for culture contacts in the deep past responded to very contemporary motivations and concerns, including nationalism, colonization, world wars, imperial expansion, diaspora, and forced migration. The project aims to unpack the ambivalent legacy of these early twentieth-century theories of cultural diffusion, which continue to inform discussions around migration, identity and belonging today.
-
-A first iteration of this project was a [2021 essay](http://www.lapartdeloeil.be/fr/revues_details.php?vid=29) detailing the history of diffusionist anthropology and cultural morphology in Germany. Together with Frederika Tevebring, I convene the research network ‘Migrating Prehistories’, based at King’s College, London, and the Warburg Institute.
-
-Below are some of my publications. Feel free to send me an e-mail if you would like to get in touch.
-
+My current project investigates the modern politics of the deep past, asking how art and material culture have been mobilized as scientific evidence of global migration and cultural contact. Titled _The Diffusionists: Art, Race, and the the First Global Turn_, the book situates anthropological theories and practices of mapping cultural diffusion within wider debates about race, indigeneity, and sovereignty from the Great War to the Cold War.
 
 ---
-## Selected Publications
+## Publications
 
 ---
 
-**Edited Volumes**
+**Monographs**
 
-* [_Stella Kramrisch and the Transculturation of Art History_](https://21-inquiries.eu/ausgaben/heft-4-2024), Special Issue co-edited with 
-Jo Ziebritzki, <u>21: Inquiries into Art, History, and the Visual</u> 5, no. 4 (2024).
+* _The Imperial Childhood of World Art_. Cultural Histories of the Material World Series. Bard Graduate Center, forthcoming in 2025.
+* _The Science of Expression: Emotion, Technology and German Modernity_. Zone Books, under contract.
 
-* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach (Berlin/Boston: De Gruyter, 2022).
+**Edited Volumes and Special Issues**
+
+* _Imagining Lost Origins: Art, Archaeology, and the Modern Politics of Ancient Migration_, co-edited with Frederika Tevebring. Rethinking Art’s Histories Series. University of Manchester Press, under contract.
+* [_Stella Kramrisch and the Transculturation of Art History_](https://21-inquiries.eu/ausgaben/heft-4-2024), Special Issue co-edited with Jo Ziebritzki, <u>21: Inquiries into Art, History, and the Visual</u> 5, no. 4 (2024).
 * [_Art and Environment in the Third Reich_](https://www.degruyter.com/journal/key/zkg/85/3/html?lang=en), Special Issue co-edited with Gregory Bryda, <u>Zeitschrift für Kunstgeschichte</u> 85, no. 3 (2022).
+* [_Ökologien des Ausdrucks_](https://www.degruyter.com/view/title/541863?rskey=HTbvuT&result=6) (Ecologies of Expression), co-edited with Frank Fehrenbach. De Gruyter, 2022).
 
 **Articles**
 
