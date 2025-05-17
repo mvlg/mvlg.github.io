@@ -17,7 +17,7 @@ My current project investigates the modern politics of the deep past, asking how
 
 **Monographs**
 
-* _The Imperial Childhood of World Art_. Cultural Histories of the Material World Series. Bard Graduate Center, forthcoming in 2025.
+* [_The Imperial Childhood of World Art_](https://press.uchicago.edu/ucp/books/book/distributed/I/bo249114896.html). Cultural Histories of the Material World Series. Bard Graduate Center, forthcoming in 2025.
 * _The Science of Expression: Emotion, Technology and German Modernity_. Zone Books, under contract.
 
 **Edited Volumes and Special Issues**
